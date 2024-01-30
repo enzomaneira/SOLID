@@ -1,0 +1,15 @@
+{
+    "name": "maneira/app_crm",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "enzomaneira",
+            "email": "enzo@maneira.com"
+        }
+    ],
+    "require": {}
+}
